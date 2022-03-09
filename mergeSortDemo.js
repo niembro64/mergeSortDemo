@@ -15,7 +15,7 @@ const combine = (l, r) => {
     }
 };
 
-left = [1, 2, 5];
-right = [3, 4, 6];
+left = [1, 2, 5,10];
+right = [3, 4, 6, 20];
 
 console.log(combine(left, right));
